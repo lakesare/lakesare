@@ -1,4 +1,4 @@
-Welcome! My name is Evgenia Karunus.  
+Welcome!
 
 At the moment I'm mainly contributing to Lean/Mathlib.  
 
