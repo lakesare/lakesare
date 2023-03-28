@@ -6,5 +6,5 @@ I've also done a couple of neurosciencey projects, see <a href="https://github.c
 
 And I created <a href="https://memcode.com">memcode</a>.
 
-Here's my <a href="https://lakesare.brick.do/">blog</a> and <a href="https://twitter.com/lakesare">twitter<a>.  
+Here's my <a href="https://lakesare.brick.do/">blog</a>.  
 And welcome to contact me at lakesare@gmail.com.  
