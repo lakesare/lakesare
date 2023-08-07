@@ -1,4 +1,4 @@
-Welcome!
+Hi!
 
 At the moment I'm primarily working on <a href="https://github.com/Paper-Proof/paper-proof">paperproof</a>, a proof tree interface for Lean.
 
