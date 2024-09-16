@@ -10,6 +10,6 @@ And welcome to contact me at lakesare@gmail.com.
 
 ___
 
-**NEW NEW NEW (but only of interest if you have non-24 sleep-wake disorder)**
+**NEW (but only of interest if you have non-24 sleep-wake disorder)**
 
 Wrote <a href="https://meresei.com/">meresei.com</a>, calendar app for people with non-24.
