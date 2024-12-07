@@ -7,9 +7,3 @@ Before that, created <a href="https://github.com/lakesare/memcode">memcode</a>.
 
 Here's my <a href="https://lakesare.brick.do/">blog</a>.  
 And welcome to contact me at lakesare@gmail.com.  
-
-___
-
-**NEW**
-
-Wrote <a href="https://meresei.com/">meresei.com</a>, a small calendar app for people with non-24.
